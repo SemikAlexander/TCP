@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\TCPEmulation\TCPEmulation\bin\Debug\TCPEmulation.exe.config
+C:\Users\Alex\source\repos\TCPEmulation\TCPEmulation\bin\Debug\TCPEmulation.exe
+C:\Users\Alex\source\repos\TCPEmulation\TCPEmulation\bin\Debug\TCPEmulation.pdb
+C:\Users\Alex\source\repos\TCPEmulation\TCPEmulation\obj\Debug\TCPEmulation.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\TCPEmulation\TCPEmulation\obj\Debug\TCPEmulation.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\TCPEmulation\TCPEmulation\obj\Debug\TCPEmulation.exe
+C:\Users\Alex\source\repos\TCPEmulation\TCPEmulation\obj\Debug\TCPEmulation.pdb
